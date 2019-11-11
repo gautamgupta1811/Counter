@@ -9,7 +9,16 @@ The code will give the following details:
  Following are some of its use cases:
     1. If you want to have the count of a specific file type in your project folder.
     2. It can also list all the different file extensions existing in your folder. 
-    3. Its also very when you need to know the total length of all the audios/ videos in a folder.(For example, the total       length of all the episodes of your favorite show that you recently downloaded.😉)
+    3. Its also very useful when you need to know the total length of all the audios/ videos in a folder.(For example, the total       length of all the episodes of your favorite show that you recently downloaded.😉)
     
+
 ## :camera: ScreenShots
+![gui](https://github.com/gautamgupta1811/Counter/blob/master/gui.png)
+
+
+## Technology Stack
+Python 3    
+PyQt  
+Designer  
+
 
