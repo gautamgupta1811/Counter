@@ -13,12 +13,22 @@ The code will give the following details:
     
 
 ## :camera: ScreenShots
-![gui](https://github.com/gautamgupta1811/Counter/blob/master/gui.png)
+![gui](https://github.com/gautamgupta1811/Counter/blob/master/ScreenShots/gui.png)  
+
+
+![result](https://github.com/gautamgupta1811/Counter/blob/master/ScreenShots/result.png)
+
+
+![browse](https://github.com/gautamgupta1811/Counter/blob/master/ScreenShots/browse.png)  
+
+
+![blank_path](https://github.com/gautamgupta1811/Counter/blob/master/ScreenShots/blank_Path.png)
 
 
 ## Technology Stack
 Python 3    
 PyQt  
-Designer  
+Moviepy  
+Qt Designer  
 
 
