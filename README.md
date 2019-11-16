@@ -1,5 +1,5 @@
 # Counter
-This application focuses to provide the complete synopsis of the different kinds of files in a folder.
+This application provides the complete synopsis of the different kinds of files in a folder.
 Simply copy & paste the path of the folder whose specifications you want to know.  
 The code will give the following details:  
     1. Total number of files  
